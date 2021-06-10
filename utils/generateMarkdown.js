@@ -24,16 +24,16 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   switch (license) {
     case  "Apache 2.0" : 
-     return "[Apache 2.0] (https://choosealicense.com/licenses/gpl-3.0/)"
+     return "[Apache 2.0](https://choosealicense.com/licenses/gpl-3.0/)"
       break;
     case "MIT": 
-     return "[MIT] (https://choosealicense.com/licenses/mit/)"
+     return "[MIT](https://choosealicense.com/licenses/mit/)"
       break;
     case "GNU GPL v3": 
-     return "[GNU GPL v3] (https://choosealicense.com/licenses/isc/)"
+     return "[GNU GPL v3](https://choosealicense.com/licenses/isc/)"
       break;
     case "ISC": 
-     return "[ISC] (https://choosealicense.com/licenses/isc/)"
+     return "[ISC](https://choosealicense.com/licenses/isc/)"
       break;
     default:
       break;

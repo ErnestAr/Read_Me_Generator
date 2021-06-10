@@ -24,7 +24,7 @@
 
 ## License 
 
-[Apache 2.0] (https://choosealicense.com/licenses/gpl-3.0/)
+[Apache 2.0](https://choosealicense.com/licenses/gpl-3.0/)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
