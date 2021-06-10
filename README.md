@@ -1,6 +1,8 @@
-#  
+# Professional README generator 
  
-## 
+## Description
+
+ This generator follows best guidlines of a good README file and creates the file base on the user input
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,33 +16,33 @@
 
 ## Installation 
 
-
+N/A
 
 ## Usage 
 
-
+Launch the file in your through your terminal and make sure to set the right README file in the write File function
 
 ## Credits 
 
 ## License 
 
-[Apache 2.0](https://choosealicense.com/licenses/gpl-3.0/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Features 
 
 ## How to Contribute 
 
-
+Create a pull request with description of added changes
 
 ## Tests 
 
-
+N\A
 
 ## Questions 
 
+[GitHub](https://github.com/ErnestAr)
 
-
-
+email: arutiunian.ernest@gamil.com
 
